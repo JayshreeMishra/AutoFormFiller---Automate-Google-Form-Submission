@@ -76,5 +76,6 @@ python main.py
 ---
 
 
-Feel free to adjust the paths and form field details as per your requirements.
+Feel free to adjust the paths and form field details as per your requirements. This script is for the Microsoft Edge browser; if you are using a different browser, use the WebDriver specific to that browser and make the necessary changes in the code.
+
 ```
